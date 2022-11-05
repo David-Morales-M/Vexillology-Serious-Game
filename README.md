@@ -19,6 +19,11 @@ El juego consta de 2 modos de juego:
 
 ![image](https://user-images.githubusercontent.com/72845439/158236155-d5f2b4dd-0349-446c-bce4-ea9129f167bf.png)
 
+###### Autores y Colaboradores
+Francisco García M. - Autor
+Bryan Flores S. - Autor
+Ludolab EPN - Colaborador
+
 ###### Agradecimientos Especiales 
 COMIC - Productor Musical e Ingeniero de Sonido del juego interactivo
 Spotify (https://open.spotify.com/artist/4MjQoypL1nL8lTmX1sDDnB?si=qqTVVtxhRFWuHHO2p5fOrg) 
