@@ -1,4 +1,4 @@
-# Banderitas
+# Flagschool
  Desarrollo de un juego serio para el aprendizaje de Vexilología en **Unity**
 
 ![image](https://user-images.githubusercontent.com/72845439/158236032-4ddee37b-cc12-4093-8f17-00caa5a46ae6.png)
